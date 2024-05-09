@@ -1,5 +1,5 @@
 from machine import Pin
-import SERVO
+import SERVO # --> don't forget to include SERVO.py available on this project folder 
 import time
 import  _thread
 
